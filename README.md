@@ -1,21 +1,10 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <style>
-      <body> {
-        color:gray;
-        }
-      <h1> {
-        color:black;
-        }
-      <p> {
-        color:purple;
-        }
-    </style>
-    <title> My Personal Introduction </title>
-  </head>
-  <body>
-  <h1> My name is Delia Lofton.</h1>
-  <p>I have worked in Radiography sinc 2003. I am interested in computers and technology. I like gardening and spending time with my family. </p>
+    <title>My Personal Introduction </title>
+</head>
+  <body style="background-color: #a7b3a8">
+  <h1 style="color: #3b2d36;">My name is Delia Lofton.</h1>
+  <p style="color: #a01f72;">I have worked in Radiography since 2003. I am interested in computers and technology. I like gardening and spending time with my family. </p>
   </body>
 </html>
